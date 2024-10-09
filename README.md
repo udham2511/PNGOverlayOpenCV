@@ -6,7 +6,7 @@ It helps overlay png image onto another image.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/udham2511/PNGOverlayOpenCV/blob/main/screenshot.png)
 ## Usage/Examples
 
 ```python
